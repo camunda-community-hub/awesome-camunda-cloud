@@ -134,6 +134,7 @@ Other Camunda Platform 8 & Zeebe related applications
 - [zeebe-worker-java-template](https://github.com/camunda-community-hub/zeebe-worker-java-template) - Minimal template for a [Zeebe](https://github.com/camunda-cloud/zeebe)
 Java [worker](https://docs.camunda.io/docs/components/concepts/job-workers/). This template adds only the bare minimum of dependencies.
 - [FEEL REPL](https://camunda.github.io/feel-scala/docs/reference/#feel-repl) - easily try FEEL expressions using the REPL (Read-Eval-Print-Loop) of the [FEEL Scala engine](https://github.com/camunda/feel-scala).
+- [Handy Scripts](https://github.com/armaan6651/camunda-8-handy-scripts) - Some handy scipts to remidiate failures or production scenarios.
 
 ## Contributing
 Please help us keep this list up to date! PRs welcome, follow our [contribution guidelines](CONTRIBUTING.md).
